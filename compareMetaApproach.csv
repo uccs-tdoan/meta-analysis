@@ -1,0 +1,9 @@
+combination approach,Meta-analysis approach,significance level,D.E. Common genes,Gain genes,Loss genes
+Combine P-value,p-value,0.05,215,43,20
+,,0.01,160,43,15
+Effect size,Effect size,0.05,109,26,51
+,,0.01,109,28,51
+Vote count,Order Gene List,0.05,104,NA,NA
+,MAP match,0.05,18,NA,NA
+Combine Rank,Rank Product,0.05,179,NA,NA
+Combine expression Value,Z statistic,0.05,140,NA,NA
